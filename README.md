@@ -39,6 +39,24 @@ where
 
 ---
 
+## Circuit Diagram
+<img width="983" height="575" alt="Screenshot 2025-10-06 042500" src="https://github.com/user-attachments/assets/54b4faa9-ee82-4b90-8e53-724d654704be" />
+
+## Python Plotting Simulation Output
+<img width="983" height="575" alt="Screenshot 2025-10-11 115221" src="https://github.com/user-attachments/assets/1e3cb638-3644-4bc8-973a-287e9688589f" />
+
+## Ngspice Simulation Input
+<img width="983" height="575" alt="Screenshot 2025-10-23 171801" src="https://github.com/user-attachments/assets/7958bc88-d70f-45bd-835e-b4e655a96753" />
+
+## Ngspice Simulation Output
+<img width="983" height="575" alt="Screenshot 2025-10-23 171933" src="https://github.com/user-attachments/assets/e06fca05-72bd-4ff4-ac7b-45e5f99e1d88" />
+
+## rms Value of Charge Pump (Input)
+<img width="289" height="94" alt="Screenshot 2025-10-11 114445" src="https://github.com/user-attachments/assets/3f67cd00-532e-4208-a75f-b9ecc6e0c99d" />
+
+## rms Value of Charge Pump (Output)
+<img width="287" height="102" alt="Screenshot 2025-10-11 114454" src="https://github.com/user-attachments/assets/39259818-b2ed-4080-a178-7c1c5207b44e" />
+
 ## 📊 Measured Simulation Results
 | Parameter | Value |
 |------------|--------|
