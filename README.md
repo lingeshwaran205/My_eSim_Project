@@ -51,22 +51,22 @@ where
 ---
 
 ## 🧪 How to Run / Reproduce
-1. Open the schematic file **`dickson_charge_pump_4stage.sch`** in **eSim**.  
-2. Ensure the input source and clock parameters match the given conditions.  
-3. Run the **NgSpice simulation** to view the transient response.  
-4. Measure RMS voltage values at input and output nodes.  
-5. Compare results with theoretical predictions.
+1. Download and unzip **`esimproject.zip`**.  
+2. Open the schematic file **`dickson_charge_pump_4stage.sch`** in **eSim**.  
+3. Ensure the input source and clock parameters match the given conditions.  
+4. Run the **NgSpice simulation** to view the transient response.  
+5. Measure RMS voltage values at input and output nodes.  
+6. Compare results with theoretical predictions.
 
 ---
 
 ## 📁 Repository Contents
-| Folder/File | Description |
-|--------------|-------------|
-| **schematic/** | eSim schematic files |
-| **netlist/** | NgSpice netlist file |
-| **simulation_results/** | Output waveforms and measurements |
-| **eSimReport.pdf** | Detailed report with analysis |
+| File | Description |
+|------|-------------|
 | **LICENSE** | GPL v3 license file |
+| **README.md** | Project description and instructions |
+| **eSimReport.pdf** | Detailed project report with circuit, results, and conclusions |
+| **esimproject.zip** | Compressed project files (schematic, netlist, simulations, etc.) |
 
 ---
 
@@ -80,5 +80,5 @@ where
 
 ## 🧾 Author
 **Lingeshwaran**  
-Project: *Design and Simulation of a 4-Stage Dickson Charge Pump using eSim*
+Project: *Design and Simulation of a 4-Stage Dickson Charge Pump using eSim*  
 
