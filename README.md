@@ -78,7 +78,7 @@ where
 
 ---
 
-## 🧾 Author
+## 🧾 Contributor
 **Lingeshwaran**  
 Project: *Design and Simulation of a 4-Stage Dickson Charge Pump using eSim*  
 
